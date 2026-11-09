@@ -1,0 +1,10 @@
+{
+  "name": "webkul-micron",
+  "version": "1.1.6",
+  "homepage": "https://webkul.github.io/micron/",
+  "authors": [
+    "Nitish Kumar <nitishkmrk@gmail.com>"
+  ],
+  "description": "a microInteraction library built with CSS Animations and controlled by JavaScript Power Edit",
+  "main": "script/micron.js",
+  "keywords": [
