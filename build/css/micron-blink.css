@@ -8,3 +8,13 @@
   animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
 }
 .mjs-ease-in-out {
+  animation-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+}
+.mjs-blink {
+  animation-name: action-blink;
+}
+@keyframes action-blink {
+  0% {
+    transform: scale(1);
+  }
+  25% {
