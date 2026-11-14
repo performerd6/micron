@@ -18,3 +18,13 @@
     transform: scale(1);
   }
   25% {
+    transform: scale(0.95);
+  }
+  50% {
+    transform: scale(0.97);
+  }
+  75% {
+    transform: scale(0.93);
+  }
+  100% {
+    transform: scale(1);
